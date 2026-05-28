@@ -15,15 +15,6 @@ The project included checking missing values, identifying duplicate records, con
   3. Google Colab
   4. Microsoft Excel
 
------ Project Structure -----
-
-sales-data-cleaning-python/
-│
-├── dataset/
-├── notebook/
-├── report/
-└── README.md
-
 ----- Data Cleaning Tasks Performed -----
 
   1. Imported and inspected the dataset
