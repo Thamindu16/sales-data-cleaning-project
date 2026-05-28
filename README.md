@@ -45,4 +45,4 @@ The project included checking missing values, identifying duplicate records, con
 ----- Author -----
 
 Thamindu Kavinda
-Data Analytics Intern – DecodeLabs
+( Data Analytics Intern – DecodeLabs )
